@@ -15,5 +15,4 @@
 
 - Status: ✅ Estudando...
 - Aprendizados: middleware, rotas, controllers
->>>>>>> 022cb039165d7b72edbd084444b51ce0e41602bf
 - Projeto: [API de Tarefas](https://www.udemy.com/course/fullstack-saas/)
