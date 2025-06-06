@@ -1,5 +1,6 @@
 ## Curso: Next JS, TypeScript, Banco de dados, Stripe pagamentos
 
+<<<<<<< HEAD
 ### Status: ✅ Em andamento...
 
 ### Aprendizados:
@@ -11,4 +12,8 @@
 
 - Conceitos de produtos SaaS (plano gratuito x premium)
 
+=======
+- Status: ✅ Estudando...
+- Aprendizados: middleware, rotas, controllers
+>>>>>>> 022cb039165d7b72edbd084444b51ce0e41602bf
 - Projeto: [API de Tarefas](link_para_o_projeto)
